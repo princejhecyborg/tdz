@@ -1,0 +1,26 @@
+@font-face { font-family: Univers_LT_57_Condensed; src:url(../../fonts/Univers_LT_57_Condensed.ttf); }
+@font-face { font-family: Univers_LT_57_Condensed_bold; src:url(../../fonts/Univers_LT_57_Condensed_bold.ttf);}
+
+@font-face{font-family:Univers_LT_57_Condensed_bold;src:url(../../fonts/Univers_LT_57_Condensed_bold.ttf)}
+.slide_show{position:absolute;margin:0 auto}
+.slide_show img{-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;background-repeat:repeat;width:100%;height:100%;position:fixed;margin-top:-50px;left:0;margin:0 auto}
+/*#whitespace{background: url(../../img/bgslideshow/Heritage.jpg);background-size:100% 100%;width:100%;height:100%;position: relative;top:100px;padding:30px;display: none}*/
+#copyright{width:100%;height: 80px;}
+/*#navigation{z-index:100;position: absolute;top:50px;width: 100%}*/
+#LGcontainer{display:none;color:black;width:;border-radius:3px;margin: auto !important;padding:20px;width: 1000px;z-index: 1000}
+#about:hover,#why:hover,#contact:hover,#services:hover,#login:hover{background: rgba(0, 0, 0, 0.3);border-radius: 3px; }
+#why,#services{padding-left: 10px;padding-right: 10px;}
+.footer{padding: 20px;text-align: center;}
+.container{min-height: 500px !important;}
+#img{height: 200px;margin-top:100px;width: 450px;z-index: 0}
+/*#image_front{background:white;margin:auto; border-radius: 50%;height:300px;width: 600px;opacity: 0.9;}*/
+.dropdown{position: relative;left:-25px;}
+input[type=number]::-webkit-inner-spin-button, 
+input[type=number]::-webkit-outer-spin-button {-webkit-appearance: none;margin: 0;}
+.customtable{font-family: arial; font-size: 13px;color:#4e7a97;vertical-align: middle;}
+.customBtn{border:1px solid #428bca;}
+#pagecontainer{background-color: #fff;min-height: 80%;padding-top:20px;padding-bottom: 20px;border:1px solid lightgray;}
+#footer{color: #808080;font-size: 11px;position: relative;}
+.navbar_login{background: #2A3F54 !important}
+.company_logo{width: 160px;height: 60px;margin-top:-15px;position: absolute;right: 20px;}
+.contact_view{box-shadow: 0 0 3px #ccc;background: white;}

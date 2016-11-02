@@ -1,0 +1,8 @@
+#error_pop_out, .error_pop_out{
+    background: rgb(240, 142, 148);
+    border: 1px solid #f0422d;
+    padding: 10px 15px;
+    position: absolute;
+    z-index: 4;
+    white-space: nowrap;
+}

@@ -1,0 +1,7 @@
+FOR TRUNCATE
+
+TRUNCATE TABLE tbl_assignments;
+TRUNCATE TABLE tbl_eta_progress;
+TRUNCATE TABLE tbl_registration;
+TRUNCATE TABLE tbl_trackinglog;
+TRUNCATE TABLE tbl_daily_accomplishment;
